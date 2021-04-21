@@ -1,0 +1,11 @@
+nb_current_map nb_key nb_bombe nb_life
+player_x player_y
+bombe_portée
+change to map 1:    x,y,cell_type
+                    x,y,cell_type
+                    ...
+..
+indic fin map( largeur de la map +10)
+change to map 2 :   ...
+indic change map
+.....
